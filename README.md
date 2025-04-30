@@ -78,7 +78,7 @@ We built a **Random Forest Regressor** to predict the estimated overdose death r
 7. `Race_Hispanic_or_Latino`  
 8. `UNIT_NUM`
 
-📎 [View the ML Model in Colab](https://colab.research.google.com/drive/1veNKOxzmQb6tf645iwXYOo4OzSoG0uBC?usp=sharing)
+
 
 ---
 
