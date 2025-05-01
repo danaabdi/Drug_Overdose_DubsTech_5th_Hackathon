@@ -8,7 +8,7 @@
 
 In this project, we analyzed overdose death trends across demographics in the United States to identify high-risk groups and evaluate policy effectiveness using machine learning and visualization tools.
 
-This project was submitted to the **6th DubsTech Datathon** and focused on both exploratory data analysis and predictive modeling.
+This project was submitted to the **5th DubsTech Datathon** and focused on both exploratory data analysis and predictive modeling.
 
 ---
 
