@@ -92,17 +92,19 @@ We built a **Random Forest Regressor** to predict the estimated overdose death r
 
 ## 📦 Files in this Repository
 
-- cleaned_overdose_death_rates_updated.xlsx, final_overdose.xlsx, etc. — Cleaned datasets
+| File Name                                            | Description                                                                     |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------- |
+| `EDA_ML.ipynb`                                       | Main notebook for exploratory data analysis and machine learning modeling       |
+| `cleaned_overdose_death_rates_updated.xlsx`          | Cleaned dataset used for analysis                                               |
+| `final_overdose.xlsx`                                | Final processed version of overdose dataset                                     |
+| `overdose_in_us.xlsx`                                | Original or raw overdose data (possibly used for reference or initial cleaning) |
+| `test_df_with_predictions.xlsx`                      | Output dataset with ML model predictions                                        |
+| `Drug_Overdose_Tableau.pdf`                          | Tableau dashboard screenshots summarizing key findings                          |
+| `Pre_Process (1).pdf`                                | Documentation on data preprocessing steps                                       |
+| `ml_selection_ideas.docx`                            | Notes on machine learning model selection strategy                              |
+| `TEAM HIRE ME NOW HEALTH Drug Overdose Presentation` | Final presentation slide deck used in the datathon                              |
+| `README.md`                                          | Project overview and repository guide                                           |
 
-- test_df_with_predictions.xlsx — Prediction results
-
-- Drug_Overdose_Tableau.pdf — Tableau dashboard screenshots
-
-- Pre_Process.pdf — Data preprocessing in R
-
-- README.md — Project overview
-
-- TEAM HIRE ME NOW HEALTH Drug Overdose Presentation — Final presentation
 
 ---
 
