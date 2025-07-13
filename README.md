@@ -2,7 +2,7 @@
 # 💊 Drug Overdose in the USA — DubsTech 5th Datathon
 
 ## 👥 Team: Hire Me Now
-- **Dana Abdirakhym** — Project & Data Cleaning Lead ([LinkedIn](https://www.linkedin.com/in/danabdirakhym/))  
+- **Dana Abdirakhym** — ML Lead ([LinkedIn](https://www.linkedin.com/in/danabdirakhym/))  
 
 ## 🧠 Project Overview
 
@@ -99,7 +99,7 @@ We built a **Random Forest Regressor** to predict the estimated overdose death r
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 Special thanks to DubsTech for organizing the datathon, and to all data providers for making this project possible.
 
