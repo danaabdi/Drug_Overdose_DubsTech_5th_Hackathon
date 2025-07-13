@@ -92,10 +92,17 @@ We built a **Random Forest Regressor** to predict the estimated overdose death r
 
 ## 📦 Files in this Repository
 
-- `data_cleaning.ipynb` – full data preprocessing workflow  
-- `drug_overdose_analysis.ipynb` – feature engineering & ML model  
-- `drug_overdose_dashboard.pbix` – Power BI interactive dashboard  
-- `presentation.pdf` – Final presentation deck  
+- cleaned_overdose_death_rates_updated.xlsx, final_overdose.xlsx, etc. — Cleaned datasets
+
+- test_df_with_predictions.xlsx — Prediction results
+
+- Drug_Overdose_Tableau.pdf — Tableau dashboard screenshots
+
+- Pre_Process.pdf — Data preprocessing in R
+
+- README.md — Project overview
+
+- TEAM HIRE ME NOW HEALTH Drug Overdose Presentation — Final presentation
 
 ---
 
