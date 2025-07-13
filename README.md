@@ -1,9 +1,6 @@
 
 # 💊 Drug Overdose in the USA — DubsTech 5th Datathon
 
-## 👥 Team: Hire Me Now
-- **Dana Abdirakhym** — ML Lead ([LinkedIn](https://www.linkedin.com/in/danabdirakhym/))  
-
 ## 🧠 Project Overview
 
 In this project, we analyzed overdose death trends across demographics in the United States to identify high-risk groups and evaluate policy effectiveness using machine learning and visualization tools.
